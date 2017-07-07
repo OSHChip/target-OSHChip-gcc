@@ -4,7 +4,7 @@ Official Yotta target for OSHChip using gcc
 #### Getting Started With Yotta and OSHChip
 
 ##### Installing Yotta
-Install the latest version of Yotta from [the official mbed website](https://docs.mbed.com/docs/getting-started-mbed-os/en/latest/installation/#installers) for your operating system. you can run yotta in the command line with either `yotta` or `yt`
+Install the latest version of Yotta from [the official Yotta website](http://docs.yottabuild.org/#installing) for your operating system. you can run yotta in the command line with either `yotta` or `yt`
 
 ##### Creating your Project
 Create a new directory and navigate to it in your command line using `cd`, then run `yotta init` to create a new project. answer the questions it asks, or hit enter to use the default. When it asks if you want to create an executable, say yes
